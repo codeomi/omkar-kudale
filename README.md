@@ -2,6 +2,7 @@
 # Demo video
 
 ![demo video](video.mov)
+Video [link](https://drive.google.com/file/d/1LQDUmzA_exSdifq2eBdeBkzhneZ38rCt/view?usp=sharing)
 
 # ChatGPT Writer Take-Home Coding Assignment
 
